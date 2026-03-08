@@ -103,13 +103,6 @@ PM2.5 AQI Value = 120
 
 Based on these pollutant values, the model predicts the AQI category as **“Unhealthy for Sensitive Groups.”** This means that the air quality can affect people who are more sensitive to pollution, such as children, elderly individuals, and people with respiratory problems.
 
-## OUTPUT
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/32b789eb-8ba2-47ba-b3ee-48663d562781" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/13b8e97d-2d5f-47fb-bef6-c7bbb14382a9" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e9647eb7-7904-4daa-a418-85c308de12dc" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8cb308a2-dbde-45b8-8408-40f5afe56a8a" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/af325d30-3649-462c-a4ef-d9d9b5039ce3" />
-
 ## Conclusion
 
 This project demonstrates how Python, Jupyter Notebook, and machine learning techniques can be used to analyze environmental data and predict air quality levels. Data visualization helps in understanding pollution patterns, while the machine learning model provides predictions based on pollutant measurements.
