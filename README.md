@@ -105,6 +105,13 @@ Based on these pollutant values, the model predicts the AQI category as **“Unh
 
 ## Conclusion
 
-This project demonstrates how Python, Jupyter Notebook, and machine learning techniques can be used to analyze environmental data and predict air quality levels. Data visualization helps in understanding pollution patterns, while the machine learning model provides predictions based on pollutant measurements.
+This project demonstrates how Python, Jupyter Notebook, and machine learning techniques can be used to analyze environmental data and predict air quality levels. Data visualization helps in understanding pollution patterns, while the machine learning model provides predictions based on pollutant measurements. Such systems can help improve environmental monitoring and provide useful insights about air pollution. Predicting AQI categories can help people become more aware of air quality conditions and take necessary precautions to protect their health.
 
-Such systems can help improve environmental monitoring and provide useful insights about air pollution. Predicting AQI categories can help people become more aware of air quality conditions and take necessary precautions to protect their health.
+## OUTPUT
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/365f561f-3d9b-4cdb-934a-1850d89d75c8" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/fcfbd232-2e77-4fcf-be35-7a15f74fd6dd" />
+
+<img width="574" height="409" alt="Image" src="https://github.com/user-attachments/assets/a007f432-5d34-4722-9217-c0928ba51f3c" />
+<img width="589" height="655" alt="Image" src="https://github.com/user-attachments/assets/3774fddb-2c64-4ddf-b6e5-46022ade8e70" />
+<img width="580" height="453" alt="Image" src="https://github.com/user-attachments/assets/431ae4f6-49fd-4e2c-b8d0-e3efec2cc44c" />
